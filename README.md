@@ -1,2 +1,2 @@
 # ML-in-Scratch
-This is step towards building Ml algorithms from scratch
+This is Intituded towards Building Ml algorithms from scratch with better understanding and clear explanation for the loc i write
